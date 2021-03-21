@@ -1,2 +1,1 @@
-# myrep1
-This is the test repository
+# HTML Maintenance Page Template
